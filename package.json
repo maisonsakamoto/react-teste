@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "next": "^15.4.1",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "name": "react-teste",
+  "version": "1.0.0",
+  "description": "Projeto com React",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maisonsakamoto/react-teste.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maisonsakamoto/react-teste/issues"
+  },
+  "homepage": "https://github.com/maisonsakamoto/react-teste#readme"
+}
